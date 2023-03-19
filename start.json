@@ -1,5 +1,6 @@
 {
     "version": "1.0.0",
-    "demo": "test",
-    "addedToDev": "development"
+    "demo": "test petru",
+    "addedToDev": "development",
+    "petru": "Petru"
 }
